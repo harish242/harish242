@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/REACT.JS**
 
-- 📫 How to reach me **markolh242@gmail.com**
+- 📫 How to reach me **markollh242@gmail.com**
 <br />
 
 <h3 align="center">Connect with me:</h3>
